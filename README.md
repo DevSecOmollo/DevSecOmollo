@@ -28,3 +28,8 @@ Our team carries you through design, build, and hardening until the result actua
 
 ### Get in touch
 Tell us what you're working with — we'll tell you honestly what it needs.
+
+### Contact
+- **Location:** Ruiru, Kiambu, Kenya
+- **GitHub:** [https://github.com/DevSecOmollo](https://github.com/DevSecOmollo)
+- **Email:** info@devsecomollo.com
